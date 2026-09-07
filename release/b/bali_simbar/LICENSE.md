@@ -1,4 +1,4 @@
-Copyright (c) I Made Suatjana
+Copyright (c) I Made Suatjana 1996
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
