@@ -1,6 +1,26 @@
 Hoisan Change History
 ====================
 
+3.0.2 (2026-05-30)
+----------------
+* modified the touch layout
+* modified code for letter generation
+
+3.0.1 (2026-04-09)
+----------------
+* added new letters 'ŭ' to replace 'ṳ'
+* modified code for letter generation
+* changed the keyboard document
+
+3.0 (2026-02-26)
+----------------
+* Updated by cathaylab
+* changed the code of the keyboard
+* added new alphatbet ŧ
+* removed complicated spelling rules
+* adopted iêng iêc ach in consonant
+* complete keyboard document
+
 2.1 (2025-12-09)
 ----------------
 * Updated by cathaylab
